@@ -4,6 +4,7 @@
 - Hebrew — Thanks to [Adam](https://twitter.com/adamh358)
 - Arabic — Thanks to [Adam](https://twitter.com/adamh358)
 - Turkish - Thanks to [Mert](https://twitter.com/MaskyCry)
+- German - Thanks to [Pascal Wend](https://twitter.com/lCryptosl)
 
 ## Translation
 The base translation strings can be found in the ```Root.strings``` file.
