@@ -7,4 +7,4 @@ To submit your translation simply message me on twitter [@BLVCKLNGS](https://twi
 
 Thank you very much for contributing to __Tacitus__
 <hr/>
-_ Tacitus is hosted on [Twickd Repository](https://repo.twickd.com) _
+_Tacitus is hosted on [Twickd](https://repo.twickd.com)_
