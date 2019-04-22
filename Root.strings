@@ -1,0 +1,32 @@
+{
+    "Enable_Tweak" = "Enabled";
+
+    "Layout" = "Layout";
+    "Layout_Mini" = "Mini";
+    "Layout_Modern" = "Modern";
+    "Layout_Classic" = "Classic";
+
+    "Style" = "Style";
+    "Style_Dark" = "Dark";
+    "Style_Light" = "Light";
+
+    "Dismiss_Options" = "Dismiss Options";
+    "Dismiss_Swipe" = "Swipe down to Dismiss";
+    "Dismiss_Auto" = "Auto-dismiss Duration";
+
+    "Custom" = "Customization";
+    "Custom_App" = "App to Open (Classic Layout only)";
+    "Custom_GlobalDeviceImage" = "Choose a Device Image";
+    "Custom_Vibrate" = "Vibrate on Connection";
+
+    "Experimental" = "Experimental Features";
+    "Experimental_GlobalDeviceName_Switch" = "Override Default Name";
+    "Experimental_GlobalDeviceName_Label" = "Custom Name";
+    "Experimental_Legacy" = "Enable Legacy Detection";
+
+    "Credits" = "Credits";
+    "Credits_Test" = "Test Popup";
+    "Credits_Prefs" = "Reset Preferences and Respring";
+    "Credits_Code" = "Source Code";
+    "Credits_Donate" = "Donate";
+}
