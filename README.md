@@ -7,5 +7,5 @@ To submit your translation simply message me on twitter [@BLVCKLNGS](https://twi
 
 Thank you very much for contributing to __Tacitus__
 
-## Cpyrights
+## Copyrights
 Tacitus is hosted on [Twickd Repository](https://repo.twickd.com/) © 2019
