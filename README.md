@@ -2,6 +2,7 @@
 
 ## Credits
 - Hebrew — Thanks to [Adam](https://twitter.com/adamh358)
+- Arabic — Thanks to [Adam](https://twitter.com/adamh358)
 - Turkish - Thanks to [Mert](https://twitter.com/MaskyCry)
 
 ## Translation
