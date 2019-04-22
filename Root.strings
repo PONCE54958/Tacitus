@@ -1,32 +1,32 @@
 {
-    "Enable_Tweak" = "Enabled";
+    "ENABLED" = "Enabled";
 
-    "Layout" = "Layout";
-    "Layout_Mini" = "Mini";
-    "Layout_Modern" = "Modern";
-    "Layout_Classic" = "Classic";
+    "LAYOUT" = "Layout";
+    "LAYOUT_MINI" = "Mini";
+    "LAYOUT_MODERN" = "Modern";
+    "LAYOUT_CLASSIC" = "Classic";
 
-    "Style" = "Style";
-    "Style_Dark" = "Dark";
-    "Style_Light" = "Light";
+    "STYLE" = "Style";
+    "STYLE_DARK" = "Dark";
+    "STYLE_LIGHT" = "Light";
 
-    "Dismiss_Options" = "Dismiss Options";
-    "Dismiss_Swipe" = "Swipe down to Dismiss";
-    "Dismiss_Auto" = "Auto-dismiss Duration";
+    "DISMISS_OPTIONS" = "Dismiss Options";
+    "DISMISS_SWIPE" = "Swipe down to Dismiss";
+    "DISMISS_AUTO" = "Auto-dismiss Duration";
 
-    "Custom" = "Customization";
-    "Custom_App" = "App to Open (Classic Layout only)";
-    "Custom_GlobalDeviceImage" = "Choose a Device Image";
-    "Custom_Vibrate" = "Vibrate on Connection";
+    "CUSTOM" = "Customization";
+    "CUSTOM_APP" = "App to Open (Classic Layout only)";
+    "CUSTOM_GLOBALDEVICEIMAGE" = "Choose a Device Image";
+    "CUSTOM_VIBRATE" = "Vibrate on Connection";
 
-    "Experimental" = "Experimental Features";
-    "Experimental_GlobalDeviceName_Switch" = "Override Default Name";
-    "Experimental_GlobalDeviceName_Label" = "Custom Name";
-    "Experimental_Legacy" = "Enable Legacy Detection";
+    "EXPERIMENTAL" = "Experimental Features";
+    "EXPERIMENTAL_GLOBALDEVICENAME_SWITCH" = "Override Default Name";
+    "EXPERIMENTAL_GLOBALDEVICENAME_LABEL" = "Custom Name";
+    "EXPERIMENTAL_LEGACY" = "Enable Legacy Detection";
 
-    "Credits" = "Credits";
-    "Credits_Test" = "Test Popup";
-    "Credits_Prefs" = "Reset Preferences and Respring";
-    "Credits_Code" = "Source Code";
-    "Credits_Donate" = "Donate";
+    "CREDITS" = "Credits";
+    "CREDITS_TEST" = "Test Popup";
+    "CREDITS_PREFS" = "Reset Preferences and Respring";
+    "CREDITS_CODE" = "Source Code";
+    "CREDITS_DONATE" = "Donate";
 }
