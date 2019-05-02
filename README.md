@@ -1,5 +1,8 @@
 # Tacitus
 
+## Changelog
+[Access the full changelog](https://github.com/BLVCKLNGS/Tacitus/blob/master/changelog.md)
+
 ## Credits
 - Hebrew — Thanks to [Adam](https://twitter.com/adamh358)
 - Arabic — Thanks to [Adam](https://twitter.com/adamh358)
