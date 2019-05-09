@@ -8,6 +8,7 @@
 - Arabic — Thanks to [Adam](https://twitter.com/adamh358)
 - Turkish - Thanks to [Mert](https://twitter.com/MaskyCry)
 - German - Thanks to [Pascal Wend](https://twitter.com/lCryptosl)
+- Chinese - Thanks to [Winston Lin](https://twitter.com/winstonlin5)
 
 ## Translation
 The base translation strings can be found in the ```Root.strings``` file.
