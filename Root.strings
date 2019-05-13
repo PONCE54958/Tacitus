@@ -1,32 +1,32 @@
 {
-    "ENABLED" = "Enabled";
+    "ENABLED" = "Activado";
 
-    "LAYOUT" = "Layout";
+    "LAYOUT" = "Plantilla";
     "LAYOUT_MINI" = "Mini";
-    "LAYOUT_MODERN" = "Modern";
-    "LAYOUT_CLASSIC" = "Classic";
+    "LAYOUT_MODERN" = "Moderno";
+    "LAYOUT_CLASSIC" = "Clásico";
 
-    "STYLE" = "Style";
-    "STYLE_DARK" = "Dark";
-    "STYLE_LIGHT" = "Light";
+    "STYLE" = "Estilo";
+    "STYLE_DARK" = "Oscuro";
+    "STYLE_LIGHT" = "Claro";
 
-    "DISMISS_OPTIONS" = "Dismiss Options";
-    "DISMISS_SWIPE" = "Swipe down to Dismiss";
-    "DISMISS_AUTO" = "Auto-dismiss Duration";
+    "DISMISS_OPTIONS" = "Opciones para ocultar";
+    "DISMISS_SWIPE" = "Deslizar hacia abajo para ocultar";
+    "DISMISS_AUTO" = "Duración para ocultar automáticamente";
 
-    "CUSTOM" = "Customization";
-    "CUSTOM_APP" = "App to Open (Classic Layout only)";
-    "CUSTOM_GLOBALDEVICEIMAGE" = "Choose a Device Image";
-    "CUSTOM_VIBRATE" = "Vibrate on Connection";
+    "CUSTOM" = "Personalización";
+    "CUSTOM_APP" = "Abrir en App (Sólo plantilla clásica)";
+    "CUSTOM_GLOBALDEVICEIMAGE" = "Escoge la imágen del dispositivo";
+    "CUSTOM_VIBRATE" = "Vibrar al conectar";
 
-    "EXPERIMENTAL" = "Experimental Features";
-    "EXPERIMENTAL_GLOBALDEVICENAME_SWITCH" = "Override Default Name";
-    "EXPERIMENTAL_GLOBALDEVICENAME_LABEL" = "Custom Name";
-    "EXPERIMENTAL_LEGACY" = "Enable Legacy Detection";
+    "EXPERIMENTAL" = "Opciones experimentales";
+    "EXPERIMENTAL_GLOBALDEVICENAME_SWITCH" = "Anular nombre predeterminado";
+    "EXPERIMENTAL_GLOBALDEVICENAME_LABEL" = "Personalizar nombre";
+    "EXPERIMENTAL_LEGACY" = "Activar antigua detección";
 
-    "CREDITS" = "Credits";
-    "CREDITS_TEST" = "Test Popup";
-    "CREDITS_PREFS" = "Reset Preferences and Respring";
-    "CREDITS_CODE" = "Source Code";
-    "CREDITS_DONATE" = "Donate";
+    "CREDITS" = "Créditos";
+    "CREDITS_TEST" = "Probar";
+    "CREDITS_PREFS" = "Restablecer ajustes (Reinicio Rápido)";
+    "CREDITS_CODE" = "Código fuente";
+    "CREDITS_DONATE" = "Donar";
 }
